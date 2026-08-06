@@ -1,6 +1,6 @@
 ![alt text](https://i.postimg.cc/N0XV9DKv/Screenshot-2026-08-05-125801.png "Screenshot Blender")
 
-# F1 Challenge 99-02 MTS Importer
+# Blender F1 Challenge 99-02 MTS Importer
 
 This plugin allows the direct import of MTS files from the classic game **F1 Challenge 99-02** into Blender. It imports not only the 3D models but also their corresponding materials.
 

@@ -11,9 +11,6 @@ This plugin allows the direct import of MTS files from the classic game **F1 Cha
 | 3D Models Import | ✅ |
 | Material Import | ✅ |
 
-## Known Bugs
-* **Positioning:** The helmet and steering wheel are currently placed at the origin coordinates (`0, 0, 0`) instead of their actual positions in the car.
-
 ---
 
 Dieses Plugin ermöglicht den direkten Import von MTS-Dateien aus dem Spieleklassiker **F1 Challenge 99-02** in Blender. Dabei werden nicht nur die 3D-Modelle, sondern auch die zugehörigen Materialien importiert.

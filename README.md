@@ -1,4 +1,4 @@
-![alt text](https://i.postimg.cc/N0XV9DKv/Screenshot-2026-08-05-125801.png "Screenshot Blender")
+![alt text](https://i.postimg.cc/kgVvDvVT/preview.jpg "Screenshot Blender")
 
 # Blender F1 Challenge 99-02 MTS Importer
 

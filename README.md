@@ -25,9 +25,6 @@ Dieses Plugin ermöglicht den direkten Import von MTS-Dateien aus dem Spieleklas
 | 3D-Modelle Import | ✅ |
 | Material Import | ✅ |
 
-## Bekannte Fehler
-* **Positionierung:** Der Helm und das Lenkrad werden aktuell auf den Koordinaten-Ursprung (`0, 0, 0`) gesetzt und nicht an ihre reale Position im Fahrzeug.
-
 ---
 
 ## Topics

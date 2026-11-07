@@ -29,4 +29,4 @@ https://wookey.forumotion.com/t2146-f1-challenge-99-02-mts-importer-for-blender<
 https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/
 
 ## Blender Extensions
-https://extensions.blender.org/add-ons/f1c-mts-importer/
+[Blender Extensions](https://extensions.blender.org/add-ons/f1c-mts-importer/)

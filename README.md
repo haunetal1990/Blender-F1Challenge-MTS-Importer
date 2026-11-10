@@ -25,8 +25,8 @@ Dieses Plugin ermöglicht den direkten Import von MTS-Dateien aus dem Spieleklas
 ---
 
 ## Topics
-https://wookey.forumotion.com/t2146-f1-challenge-99-02-mts-importer-for-blender<br />
-https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/
+[Wookey Forum](https://wookey.forumotion.com/t2146-f1-challenge-99-02-mts-importer-for-blender)<br />
+[Studio397 Forum](https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/)
 
 ## Blender Extensions
 [Blender Extensions](https://extensions.blender.org/add-ons/f1c-mts-importer/)
